@@ -250,3 +250,9 @@
 * Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals - [[Paper](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1)]
 * TQCPat: Tree Quantum Circuit Pattern-based Feature Engineering Model for Automated Arrhythmia Detection using PPG Signals - [[Paper](https://link.springer.com/article/10.1007/s10916-025-02169-0)]
 * GPT-PPG: A GPT-based Foundation Model for Photoplethysmography Signals - [[Paper](https://arxiv.org/abs/2503.08015)]
+
+
+##
+##
+Updated by Google Scholar search keywords:
+"atrial fibrillation" "PPG" "photoplethysmography" detection algorithm model AI machine learning, deep learning, classification
