@@ -32,7 +32,11 @@
 * 2022 - Atrial fibrillation detection using ambulatory smartwatch photoplethysmography and validation with simultaneous holter recording - [[Paper](https://www.sciencedirect.com/science/article/pii/S000287032200028X?via%3Dihub)]
 * 2022 - Continuous 24-h Photoplethysmogram Monitoring Enables Detection of Atrial Fibrillation - [[Paper](https://www.frontiersin.org/articles/10.3389/fphys.2021.778775/full)]
 * 2022 - Detection of Atrial Fibrillation in a Large Population Using Wearable Devices: The Fitbit Heart Study - [[Paper](https://www.ahajournals.org/doi/suppl/10.1161/CIRCULATIONAHA.122.060291)]
-
+* 2023 - Photoplethysmography wave morphology in patients with atrial fibrillation - [[Paper](https://iopscience.iop.org/article/10.1088/1361-6579/acc725/meta)]
+* 2024 - Detection of Atrial Fibrillation using PPG Signals - [[Paper](https://ieeexplore.ieee.org/abstract/document/10958406)]
+* 2025 - PO-02-046 PHOTOPLETHYSMOGRAPHY IN ACUTE ATRIAL FIBRILLATION: AUTOMATIC DETECTION OF RHYTHM CHANGE AND BURDEN - [[Paper](https://www.heartrhythmjournal.com/article/S1547-5271(25)00749-0/fulltext)]
+* 2024 - PPGAF-score: a photoplethysmographic risk prediction tool for developing atrial fibrillation - [[Paper](https://academic.oup.com/eurheartj/article/45/Supplement_1/ehae666.348/7838816)]
+* 2024 - The Acceptability of Wearables for Atrial Fibrillation Screening: Interim Analysis of the SAFER Wearables Study - [[Paper](https://cinc.org/archives/2024/pdf/CinC2024-060.pdf)]
 ### Studies on photoplethysmography based AF detection using ML approaches.
 
 * 2016 - Reliable PPG-based algorithm in atrial fibrillation detection - [[Paper](Reliable PPG-based algorithm in atrial fibrillation detection)]
@@ -61,7 +65,10 @@
 * 2022 - Quickly Convert Photoplethysmography to Electrocardiogram Signals by a Banded Kernel Ensemble Learning Method for Heart Diseases Detection - [[Paper](https://ieeexplore.ieee.org/abstract/document/9770784)]
 * 2023 - Evaluation of Atrial Fibrillation Detection in short-term Photoplethysmography (PPG) signals using artificial intelligence - [[Paper](https://www.medrxiv.org/content/10.1101/2023.03.06.23286847v1)]
 * 2023 - Identification of Coronary Artery Diseases Using Photoplethysmography Signals and Practical Feature Selection Process - [[Paper](https://www.mdpi.com/2306-5354/10/2/249)]
+* 2023 - Prediction of Atrial Fibrillation using XGBoost and Smartphone PPG Data with ECG Based Model - [[Paper](https://ieeexplore.ieee.org/abstract/document/10276750)]
 * 2024 - Exploring the power of photoplethysmogram matrix for atrial fibrillation detection with integrated explainability - [[Paper](https://doi.org/10.1016/j.engappai.2024.108325)]
+* 2024 - Detection of Atrial Fibrillation From PPG Sensor Data Using Variational Mode Decomposition - [[Paper](https://ieeexplore.ieee.org/abstract/document/10414157)]
+* 2024 - An SVM-Based Atrial Fibrillation Detection Processor IC with a 95.8-% Sensitivity for Low-Power Event-Driven Cardiac Monitoring Applications - [[Paper](https://ieeexplore.ieee.org/abstract/document/10546428)]
 * 2025 - TQCPat: Tree Quantum Circuit Pattern-based Feature Engineering Model for Automated Arrhythmia Detection using PPG Signals - [[Paper](https://link.springer.com/article/10.1007/s10916-025-02169-0)]
 
 ### Studies on photoplethysmography based AF detection using DL approaches.
@@ -100,6 +107,9 @@
 * 2022 - A supervised machine learning semantic segmentation approach for detecting artifacts in plethysmography signals from wearables - [[Paper](https://doi.org/10.1088/1361-6579/ac3b3d)]
 * 2023 - A Deep Learning-based PPG Quality Assessment Approach for Heart Rate and Heart Rate Variability - [[Paper](https://dl.acm.org/doi/full/10.1145/3616019)]
 * 2023 - Log-Spectral Matching GAN: PPG-Based Atrial Fibrillation Detection can be Enhanced by GAN-Based Data Augmentation With Integration of Spectral Loss - [[Paper](https://ieeexplore.ieee.org/abstract/document/10008403)]
+* 2023 - Contrastive Self-Supervised Learning Based Approach for Patient Similarity: A Case Study on Atrial Fibrillation Detection from PPG Signal - [[Paper](https://arxiv.org/abs/2308.02433)]
+* 2023 - Novel Robust-to-Motion-Artifact Detection of Atrial Fibrillation Based on PPG Only - [[Paper](https://ieeexplore.ieee.org/abstract/document/10325087)]
+* 2023 - A training pipeline of an arrhythmia classifier for atrial fibrillation detection using Photoplethysmography signal - [[Paper](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1084837/full)]
 * 2024 - Intelligent Detection Method of Atrial Fibrillation by CEPNCC-BiLSTM Based on Long-Term Photoplethysmography Data - [[Paper](https://www.mdpi.com/1424-8220/24/16/5243)]
 * 2024 - Atrial fibrillation detection on reconstructed photoplethysmography signals collected from a smartwatch using a denoising autoencoder - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423021139)]
 * 2024 - Compressed Deep Learning Models for Wearable Atrial Fibrillation Detection through Attention - [[Paper](https://www.mdpi.com/1424-8220/24/15/4787)]
@@ -107,13 +117,16 @@
 * 2024 - SQUWA: Signal Quality Aware DNN Architecture for Enhanced Accuracy in Atrial Fibrillation Detection from Noisy PPG Signals - [[Paper](https://arxiv.org/abs/2404.15353)]
 * 2024 - SiamQuality: a ConvNet-based foundation model for photoplethysmography signals - [[Paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad6747/meta)]
 * 2024 - Continuous Atrial Fibrillation Monitoring From Photoplethysmography: Comparison Between Supervised Deep Learning and Heuristic Signal Processing - [[Paper](https://www.jacc.org/doi/full/10.1016/j.jacep.2024.01.008)]
+* 2024 - PPG-to-ECG Signal Translation for Continuous Atrial Fibrillation Detection via Attention-based Deep State-Space Modeling - [[paper](https://ieeexplore.ieee.org/abstract/document/10781630)]
 * 2024 - Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models - [[Paper](https://arxiv.org/abs/2405.11566)]
+* 2024 - Meta-learning Based Cardiopathy Detection from PPG Signals Using GAN and 1D CNN - [[Paper](https://link.springer.com/article/10.1007/s00034-024-02941-6)]
 * 2025 - Enhancing atrial fibrillation detection in PPG analysis with sparse labels through contrastive learning - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001154)]
 * 2025 - Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection Using Eight Million Samples Labeled With Imprecise Arrhythmia Alarms - [[Paper](https://ieeexplore.ieee.org/abstract/document/10418255)]
 * 2025 - Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals - [[Paper](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1)]
 * 2025 - GPT-PPG: A GPT-based Foundation Model for Photoplethysmography Signals - [[Paper](https://arxiv.org/abs/2503.08015)]
-
-
+* 2025 - A Neural Network for Atrial Fibrillation Detection via PPG - [[Paper](https://pubmed.ncbi.nlm.nih.gov/40270425/)]
+* 2025 - A novel 1D generative adversarial network-based framework for atrial fibrillation detection using restored wrist photoplethysmography signals - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809424012916)]
+* 2025 - MLFusion: Multilevel Data Fusion using CNNs for atrial fibrillation detection - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010482525002525)]
 
 ## Studies by years
 
@@ -231,6 +244,10 @@
 * A Deep Learning-based PPG Quality Assessment Approach for Heart Rate and Heart Rate Variability - [[Paper](https://dl.acm.org/doi/full/10.1145/3616019)]
 * Log-Spectral Matching GAN: PPG-Based Atrial Fibrillation Detection can be Enhanced by GAN-Based Data Augmentation With Integration of Spectral Loss - [[Paper](https://ieeexplore.ieee.org/abstract/document/10008403)]
 * Identification of Coronary Artery Diseases Using Photoplethysmography Signals and Practical Feature Selection Process - [[Paper](https://www.mdpi.com/2306-5354/10/2/249)]
+* Photoplethysmography wave morphology in patients with atrial fibrillation - [[Paper](https://iopscience.iop.org/article/10.1088/1361-6579/acc725/meta)]
+* Contrastive Self-Supervised Learning Based Approach for Patient Similarity: A Case Study on Atrial Fibrillation Detection from PPG Signal - [[Paper](https://arxiv.org/abs/2308.02433)]
+* Novel Robust-to-Motion-Artifact Detection of Atrial Fibrillation Based on PPG Only - [[Paper](https://ieeexplore.ieee.org/abstract/document/10325087)]
+* A training pipeline of an arrhythmia classifier for atrial fibrillation detection using Photoplethysmography signal - [[Paper](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1084837/full)]
 
 ### 2024
 * Intelligent Detection Method of Atrial Fibrillation by CEPNCC-BiLSTM Based on Long-Term Photoplethysmography Data - [[Paper](https://www.mdpi.com/1424-8220/24/16/5243)]
@@ -241,7 +258,14 @@
 * SQUWA: Signal Quality Aware DNN Architecture for Enhanced Accuracy in Atrial Fibrillation Detection from Noisy PPG Signals - [[Paper](https://arxiv.org/abs/2404.15353)]
 * SiamQuality: a ConvNet-based foundation model for photoplethysmography signals - [[Paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad6747/meta)]
 * Continuous Atrial Fibrillation Monitoring From Photoplethysmography: Comparison Between Supervised Deep Learning and Heuristic Signal Processing - [[Paper](https://www.jacc.org/doi/full/10.1016/j.jacep.2024.01.008)]
+* SiamAF: Learning Shared Information from ECG and PPG Signals for Robust Atrial Fibrillation Detection - [[Paper](https://arxiv.org/abs/2310.09203)]
 * Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models - [[Paper](https://arxiv.org/abs/2405.11566)]
+* Detection of Atrial Fibrillation From PPG Sensor Data Using Variational Mode Decomposition - [[Paper](https://ieeexplore.ieee.org/abstract/document/10414157)]
+* Detection of Atrial Fibrillation using PPG Signals - [[Paper](https://ieeexplore.ieee.org/abstract/document/10958406)]
+* PPG-to-ECG Signal Translation for Continuous Atrial Fibrillation Detection via Attention-based Deep State-Space Modeling - [[paper](https://ieeexplore.ieee.org/abstract/document/10781630)]
+* Meta-learning Based Cardiopathy Detection from PPG Signals Using GAN and 1D CNN - [[Paper](https://link.springer.com/article/10.1007/s00034-024-02941-6)]
+* PPGAF-score: a photoplethysmographic risk prediction tool for developing atrial fibrillation - [[Paper](https://academic.oup.com/eurheartj/article/45/Supplement_1/ehae666.348/7838816)]
+* The Acceptability of Wearables for Atrial Fibrillation Screening: Interim Analysis of the SAFER Wearables Study - [[Paper](https://cinc.org/archives/2024/pdf/CinC2024-060.pdf)]
 
 
 ### 2025
@@ -250,6 +274,9 @@
 * Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals - [[Paper](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1)]
 * TQCPat: Tree Quantum Circuit Pattern-based Feature Engineering Model for Automated Arrhythmia Detection using PPG Signals - [[Paper](https://link.springer.com/article/10.1007/s10916-025-02169-0)]
 * GPT-PPG: A GPT-based Foundation Model for Photoplethysmography Signals - [[Paper](https://arxiv.org/abs/2503.08015)]
+* PO-02-046 PHOTOPLETHYSMOGRAPHY IN ACUTE ATRIAL FIBRILLATION: AUTOMATIC DETECTION OF RHYTHM CHANGE AND BURDEN - [[Paper](https://www.heartrhythmjournal.com/article/S1547-5271(25)00749-0/fulltext)]
+* A novel 1D generative adversarial network-based framework for atrial fibrillation detection using restored wrist photoplethysmography signals - [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809424012916)]
+* MLFusion: Multilevel Data Fusion using CNNs for atrial fibrillation detection - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010482525002525)]
 
 
 ##
